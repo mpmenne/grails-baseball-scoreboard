@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" name="The user needs to be able to create different teams so that the scoreboard can show who's playing" tests="4" time="24.429000">
+<testcase classname="The user needs to be able to create different teams so that the scoreboard can show who's playing.A user should be able to save certain information about a team" name="A user should be able to save certain information about a team" time="0.109000">
+</testcase>
+<testcase classname="The user needs to be able to create different teams so that the scoreboard can show who's playing.A user should have the ability to save certain information about a team" name="A user should have the ability to save certain information about a team" time="7.067000">
+</testcase>
+<testcase classname="The user needs to be able to create different teams so that the scoreboard can show who's playing.A user shouldn't be able to save certain values about a team" name="A user shouldn't be able to save certain values about a team (outline example : | teamName |  | blank |)" time="8.221000">
+</testcase>
+<testcase classname="The user needs to be able to create different teams so that the scoreboard can show who's playing.A user shouldn't be able to save certain values about a team" name="A user shouldn't be able to save certain values about a team (outline example : | city | the longest city ever known that would never actually exist | size |)" time="9.017000">
+</testcase>
+</testsuite>
